@@ -11,3 +11,9 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+/* styles.css */
+.nav-link.active:hover {
+  text-decoration: underline;
+  color: rgb(126,34,206) !important;
+}
