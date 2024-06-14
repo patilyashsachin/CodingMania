@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/CWHClone/static/css/main.e700c5c6.css",
-    "main.js": "/CWHClone/static/js/main.9c26c72b.js",
-    "static/js/453.419a5d54.chunk.js": "/CWHClone/static/js/453.419a5d54.chunk.js",
-    "index.html": "/CWHClone/index.html",
-    "main.e700c5c6.css.map": "/CWHClone/static/css/main.e700c5c6.css.map",
-    "main.9c26c72b.js.map": "/CWHClone/static/js/main.9c26c72b.js.map",
-    "453.419a5d54.chunk.js.map": "/CWHClone/static/js/453.419a5d54.chunk.js.map"
+    "main.css": "/CodingMania/static/css/main.e700c5c6.css",
+    "main.js": "/CodingMania/static/js/main.aebe68e9.js",
+    "static/js/453.419a5d54.chunk.js": "/CodingMania/static/js/453.419a5d54.chunk.js",
+    "index.html": "/CodingMania/index.html",
+    "main.e700c5c6.css.map": "/CodingMania/static/css/main.e700c5c6.css.map",
+    "main.aebe68e9.js.map": "/CodingMania/static/js/main.aebe68e9.js.map",
+    "453.419a5d54.chunk.js.map": "/CodingMania/static/js/453.419a5d54.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e700c5c6.css",
-    "static/js/main.9c26c72b.js"
+    "static/js/main.aebe68e9.js"
   ]
 }
